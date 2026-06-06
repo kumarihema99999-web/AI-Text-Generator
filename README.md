@@ -19,7 +19,4 @@ It takes a user prompt and generates text output.
 - `requirements.txt` → Dependencies
 - `README.md` → Documentation
 
-🔑 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/ai-text-generator.git
+
